@@ -18,7 +18,7 @@ In order for the program to  work, the following requirements are needed below
 # Website
   Below is a link to the website used for this image detection
   * http://marcoworms.github.io/clicklab/
-  * Note: In order for the program to function properly, the windows needs to be in the top left quadrant only of the screen  using the windows key and the arrow keys
+  * Note: In order for the program to function properly, the windows needs to be in the top left quadrant only of the screen  using shortcut windows key + any arrow key
   
 # Commands
 The program features these keyboard commands
