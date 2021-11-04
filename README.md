@@ -24,7 +24,7 @@ In order for the program to  work, the following requirements are needed below
 The program features these keyboard commands
  * s: Starts the program 
  * p: Pauses the program
- * q: Quite the program
+ * q: Quit the program
  
 # License
 Released under the Mit License
