@@ -1,4 +1,4 @@
-# Clicklab_Aimbot
+# ClickLab-DotClicker
 
 # Table of Contents:
  - [Installation](#Installation)
